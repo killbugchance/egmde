@@ -1,6 +1,6 @@
 # egmde: Example Mir Desktop Environment
 
-I forked **AlanGriffiths / egmde** on 20/12/2024
+I forked **[AlanGriffiths / egmde](https://github.com/AlanGriffiths/egmde)** on 20/12/2024
 
 ## An example project using Mir https://mir-server.io/.
 
